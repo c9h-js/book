@@ -1,0 +1,12 @@
+[book]
+title = "The Cottonmouth Book"
+authors = ["The Cottonmouth Team"]
+description = "Official documentation for Cottonmouth"
+language = "en"
+multilingual = false
+src = "src"
+
+[build]
+build-dir = ".book"
+create-missing = true
+use-default-preprocessors = true

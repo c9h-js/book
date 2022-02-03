@@ -1,0 +1,10 @@
+{
+  "name": "@c9h/book",
+  "private": true,
+  "scripts": {
+    "lint": "markdownlint src/**/*.md"
+  },
+  "devDependencies": {
+    "markdownlint-cli": "^0.30.0"
+  }
+}
